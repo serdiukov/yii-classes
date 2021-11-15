@@ -1,5 +1,6 @@
 {
   "name": "serdiukov/yii-classes",
+  "license": "MIT",
   "description": "Classes for Yii 2.0 Framework",
   "keywords": ["php", "yii2", "extension"],
   "type": "library",
@@ -8,7 +9,7 @@
   },
   "autoload": {
     "psr-4": {
-      "YiiClasses\\": "src/"
+      "serdiukov\\yii\\": "src/"
     }
   }
 }
