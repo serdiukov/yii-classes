@@ -5,7 +5,8 @@
   "keywords": ["php", "yii2", "extension"],
   "type": "library",
   "require": {
-    "php": ">=7.1.0"
+    "php": ">=7.1.0",
+    "ramsey/uuid": "^3.7"
   },
   "autoload": {
     "psr-4": {
